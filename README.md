@@ -46,7 +46,7 @@ transformers:
 ```dart
 @Component(
     ...
-    directives: const [BS_ACCORDION_DIRECTIVES])
+    directives: const [NG_BOOTSTRAP_DIRECTIVES])
 ```
 
 ## Components
@@ -74,7 +74,10 @@ transformers:
 - [ ] SignItInput
 - [ ] SignInput
 - [ ] Charts
+- [ ] Header Bar
+- [ ] Scafold - Base Layout
 
+### Others
 - [x] BsTemplateOutlet - to transclude templates (Most likely will be removed in future versions)
 - [x] positional service
 
